@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pb-jana
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning C++ & Python.
+- 🌱 I’m currently learning Web Development & Python.
 - 💞️ I’m looking to collaborate on project.
 - 📫 How to reach me !! DM me on twitter @bikash_pbj.
 
